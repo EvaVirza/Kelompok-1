@@ -8,3 +8,13 @@ Aslab : Aditya Rizki Ramadhan
 Aslab : Sofia Fei 
         Kesan : Terimakasih juga buat kak sofia atas dedikasi, bantuan serta ilmunya. Terimaksih juga sudah memberikan suasana yang santai dan nyaman saat                   belajar.
         Pesan : Mungkin kakak bisa lebih mempersiapkan lagi materi yang ingin disampaikan supaya nanti tidak ada yang keliru saat menjelaskan.    
+
+Nama: Mega Siti Novita
+NPM : 2208108010057
+Aslab: Aditya Rizki Ramadhan
+Kesan: Sebelumnya saya mengucapkan terimakasih banyak kepada abang dalam bimbingan dan bantuannya. Karena dengan bantuan dan bimbingan abang saya bisa lebih memahami mata kuliah algoritma dan pemrograman terutama dalam bahasa C dan python dan pengaplikasiaannya menggunakan visual studio codde. Terimakasih juga kepada abang karena telah membuat sikon di dalam ruangan lab tidak menegangkan. Dengan gaya belajar yang selalu mengajak berdiskusi agar saya dan teman-teman yang lain lebih mudah dalam memahami pembelajaran.
+Pesan: Semoga kedepannya abang lebih jelas dalam menjelaskan materi dan bisa mempraktikkan kode programnya bersama dengan praktikan agar praktikan bisa lebih memahami apa yang disampaikan.
+
+Aslab: Sofia Fei
+Kesan: Sebelumnya terimakasih juga kepada akak yang telah memberikan ilmunya. Terimakasih karena akak bisa mengimbangi sikap kami di lab. 
+Pesan: Semoga kedepannya akak bisa lebih memantapkan materi yang ingin disampaikan. 
